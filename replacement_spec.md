@@ -5,3 +5,5 @@ If this is your first claim, then a replacement order is created. If you have ma
 claim before, your claim case is opened and assigned to a customer service representative
 who will investigate the claim. In all cases, a lost mail compensation case is opened
 and sent to the courier with details of the consignment that as undelivered.
+
+Cribbed from [Principles, Patterns and Practices of Domain-Driven Design](https://leanpub.com/Practicing-DDD)
