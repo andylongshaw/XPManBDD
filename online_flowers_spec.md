@@ -1,6 +1,7 @@
 ## Specification
 
 User Type   | Country | Order Value | Has unused free | Offer free | Send gift
+
             |         |             | delivery offer? |  delivery? | voucher
 ------------|---------|-------------|-----------------|------------|-----------
 VIP         | UK      | 50          | No              | Yes        | No 
