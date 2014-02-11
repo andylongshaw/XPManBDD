@@ -6,14 +6,13 @@ Feature: customer requests a replacement order
 Background:
 	Given Susan has previously raised a claim
 
-Scenario: first claim for a replacement order
-	Given John has not received his order
-	When he requests a replacement
-	Then a replacement order is created
+Scenario Outline: customer requests a replacement
+	Given <the customer> has not received his order
+	When they request a replacement
+	Then <the action is>
 	And a lost mail compensation case is opened
 
-Scenario: subsequent claim for a replacement order
-	Given Susan has not received her order
-	When she requests a replacement
-	Then a claim case is opened
-	And a lost mail compensation case is opened
+	Examples:
+	| the customer | the action is                  |
+	| John         | a replacement order is created |
+	| Susan        | a claim case is opened         |
