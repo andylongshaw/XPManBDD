@@ -4,6 +4,8 @@ Context is an online flower shop. VIP ustomers get free delivery within the UK o
 
 ### Original captured examples
 
+* Mark is a VIP customer. He puts a £50 flower arrangement in his cart and goes to checkout. At checkout he is offered free delivery since he is from the UK.
+* Mark puts a £30 flower arrangement in his cart and goes to checkout. At checkout he is only offered regular delivery.
 
 
 ### Summary table
