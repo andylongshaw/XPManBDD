@@ -21,4 +21,4 @@ Regular     | UK      | 50          | No         | No
 
 (Heavily borrowed from Gojko Adzic's Bridging the Communication Gap) 
 
-Sample [feature file](../blob/master/online_flower_delivery.feature)
+Sample [feature file](online_flower_delivery.feature)
