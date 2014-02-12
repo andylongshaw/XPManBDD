@@ -10,3 +10,5 @@ This might result in more than one feature. The first might be a [customer reque
 replacement order](replacement.feature) feature, but others might look at what happens to the claim case and lost mail compensation case.
 
 Cribbed from [Principles, Patterns and Practices of Domain-Driven Design](https://leanpub.com/Practicing-DDD)
+
+Sample [feature file](replacement.feature)
