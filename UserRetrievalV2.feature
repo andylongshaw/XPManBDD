@@ -13,10 +13,10 @@ Scenario: Retrieve details about the specified user
   Then the response should contain JSON:
   """
   [
-  	{
+    {
       "id": 1,
-  		"name": "Asif",
+      "name": "Asif",
       "imagePath": "/img/asif.png"
-  	}
+    }
   ]
   """
