@@ -11,7 +11,7 @@ Given The Product Code "123456" is in the system
 And The product expression used is:
   | Criteria		| Operator	| Value |
   | IsMarkedDown	| =		| false	|
-  | FreshnessDays	| >=		| 0		|
+  | FreshnessDays	| >=		| 0	|
 # WWL: Several things need to be done in the 'When' - not universally accepted
 When I search for product "123456" in department "Womens"
 And I select product "123456"
