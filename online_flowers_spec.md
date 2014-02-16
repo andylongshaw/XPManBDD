@@ -15,7 +15,7 @@ Context is an online flower shop. VIP ustomers get free delivery within the UK o
 User Type   | Country | Order Value | Offer free delivery | Allocate gift voucher
 ------------|---------|-------------|-----------------|------------
 VIP         | UK      | 50          | Yes        | No 
-VIP         | UK      | 30          | Yes        | No 
+VIP         | UK      | 30          | No         | No 
 VIP         | Ireland | 50          | No         | Yes
 Regular     | UK      | 50          | No         | No
 
